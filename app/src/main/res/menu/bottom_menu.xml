@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About"/>
+
+    <item
+        android:id="@+id/fragmentOne"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/fragmentTwo"
+        android:icon="@drawable/ic_baseline_games_24"
+        android:title="Quizz"/>
+
+
+</menu>
